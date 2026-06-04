@@ -1,0 +1,40 @@
+# Python virtual environment
+robotics_env/
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Build folders (ROS2)
+build/
+install/
+log/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled binaries
+*.o
+*.so
+*.a
+*.out
+
+# Logs
+*.log
+phase1_linux/robotics_env/
+.vscode/
+*.db
+*.vc.db
